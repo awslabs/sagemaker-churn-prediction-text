@@ -25,7 +25,7 @@ To get started quickly, use the following quick-launch link to launch a CloudFor
 
 We focus on Amazon SageMaker components in this solution. Amazon SageMaker Training Jobs are used to train the churn prediction model and an Amazon SageMaker Endpoint is used to deploy the model. We use Amazon S3 alongside Amazon SageMaker to store the training data and model artifacts, and Amazon CloudWatch to log training and endpoint outputs.
 
-![architecture-diagram](https://sagemaker-solutions-prod-us-west-2.s3.us-west-2.amazonaws.com/Churn-prediction-with-text/docs/architecture_diagram.png)
+![architecture-diagram](https://sagemaker-solutions-prod-us-west-2.s3.us-west-2.amazonaws.com/Churn-prediction-with-text/docs/architecture_diagram_light.png)
 
 ## Credits
 
